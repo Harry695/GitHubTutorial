@@ -1,0 +1,3 @@
+name: Harry Ouyang
+role: Lead
+year: 2
